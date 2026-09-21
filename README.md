@@ -2,7 +2,7 @@
 
 A Node.js integration that synchronizes active property listings from the **EverReal** real estate platform into a **Framer CMS** collection, keeping a live property website up to date without manual data entry.
 
-Built for [Frank Borgmann Immobilien](https://www.borgmann-immobilien.de) (or link if public), a real estate agency using Framer as its website platform.
+Built for [Frank Borgmann Immobilien](https://www.borgmann-immobilien.de) a real estate agency using Framer as its website platform.
 
 ## What it does
 

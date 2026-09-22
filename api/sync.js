@@ -4,7 +4,7 @@ const axios = require('axios');
 require('dotenv').config();
 
 // ---- Configuration ----
-const FRAMER_PROJECT_URL = https://framer.com/projects/Frank-Borgmann--akrT1L4qoe7OxECpl4P8-5yvwv;
+const FRAMER_PROJECT_URL = process.env.FRAMER_PROJECT_URL;
 const FRAMER_API_KEY = process.env.FRAMER_API_KEY;
 const FRAMER_COLLECTION_ID = process.env.FRAMER_COLLECTION_ID;
 const EVERREAL_TOKEN_URL = process.env.EVERREAL_TOKEN_URL;

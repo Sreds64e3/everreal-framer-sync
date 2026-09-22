@@ -5,7 +5,7 @@ require('dotenv').config();
 
 // ---- Configuration ----
 const FRAMER_PROJECT_URL = process.env.FRAMER_PROJECT_URL;
-//const FRAMER_API_KEY = process.env.FRAMER_API_KEY;
+const FRAMER_API_KEY = process.env.FRAMER_API_KEY;
 const FRAMER_COLLECTION_ID = process.env.FRAMER_COLLECTION_ID;
 const EVERREAL_TOKEN_URL = process.env.EVERREAL_TOKEN_URL;
 const EVERREAL_CLIENT_ID = process.env.EVERREAL_CLIENT_ID;
